@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lordbilzy
+- 👋 Hi, I’m @Bilal
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python 
+- 🌱 I’m currently learning ... Python and HTML,CSS and JS
 - 💞️ I’m looking to collaborate on ... Code
 - 📫 How to reach me ... sunmonubilal@gmail.com
 
